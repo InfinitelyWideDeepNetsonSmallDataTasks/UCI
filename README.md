@@ -1,5 +1,5 @@
 
-This is the detailed results for UCI experiments of the paper "Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks".
+This is the detailed results for UCI experiments of the paper ["Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks".](https://openreview.net/forum?id=BkgNqkHFPr) (ICLR 2020 Submission)
 
 Column L to GL is reported by [1] from the link blow:
 - http://persoal.citius.usc.es/manuel.fernandez.delgado/papers/jmlr/results.txt 
